@@ -2,3 +2,11 @@ p {
     color: red;
     font-weight: bold;
 }
+body {
+    background-color: black;
+}
+
+input {
+    background-color: blue;
+    color: red;
+}
